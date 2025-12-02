@@ -1,9 +1,5 @@
 {
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
-  "framework": "vite",
-  "env": {
-    "VITE_OPTIMIZELY_GRAPH_URL": "@optimizely_graph_url",
-    "VITE_OPTIMIZELY_SINGLE_KEY": "@optimizely_single_key"
-  }
+  "framework": "vite"
 }
